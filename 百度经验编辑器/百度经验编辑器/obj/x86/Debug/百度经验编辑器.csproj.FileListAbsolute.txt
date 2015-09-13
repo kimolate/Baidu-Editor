@@ -1,0 +1,8 @@
+c:\users\ki\documents\visual studio 2010\Projects\百度经验编辑器\百度经验编辑器\bin\Debug\百度经验编辑器.exe
+c:\users\ki\documents\visual studio 2010\Projects\百度经验编辑器\百度经验编辑器\bin\Debug\百度经验编辑器.pdb
+c:\users\ki\documents\visual studio 2010\Projects\百度经验编辑器\百度经验编辑器\obj\x86\Debug\百度经验编辑器.Form1.resources
+c:\users\ki\documents\visual studio 2010\Projects\百度经验编辑器\百度经验编辑器\obj\x86\Debug\百度经验编辑器.Properties.Resources.resources
+c:\users\ki\documents\visual studio 2010\Projects\百度经验编辑器\百度经验编辑器\obj\x86\Debug\百度经验编辑器.csproj.GenerateResource.Cache
+c:\users\ki\documents\visual studio 2010\Projects\百度经验编辑器\百度经验编辑器\obj\x86\Debug\百度经验编辑器.exe
+c:\users\ki\documents\visual studio 2010\Projects\百度经验编辑器\百度经验编辑器\obj\x86\Debug\百度经验编辑器.pdb
+C:\Users\ki\documents\visual studio 2010\Projects\百度经验编辑器\百度经验编辑器\obj\x86\Debug\百度经验编辑器.csproj.ResolveComReference.cache
